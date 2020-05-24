@@ -1,0 +1,4 @@
+portserial.c:37:1:vMBPortSerialEnable	16	static
+portserial.c:56:1:xMBPortSerialInit	16	static
+portserial.c:105:1:xMBPortSerialPutByte	16	static
+portserial.c:115:1:xMBPortSerialGetByte	16	static

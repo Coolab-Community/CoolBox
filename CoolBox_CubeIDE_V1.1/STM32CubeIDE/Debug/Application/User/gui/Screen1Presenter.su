@@ -1,0 +1,16 @@
+Presenter.hpp:42:18:virtual void touchgfx::Presenter::activate()	16	static
+Presenter.hpp:54:18:virtual void touchgfx::Presenter::deactivate()	16	static
+Presenter.hpp:65:13:touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:65:13:virtual touchgfx::Presenter::~Presenter()	16	static
+Presenter.hpp:78:5:touchgfx::Presenter::Presenter()	16	static
+Model.hpp:22:16:ADC_Struct Model::get_value()	32	static
+ModelListener.hpp:9:5:ModelListener::ModelListener()	16	static
+ModelListener.hpp:11:13:ModelListener::~ModelListener()	16	static
+ModelListener.hpp:11:13:virtual ModelListener::~ModelListener()	16	static
+ModelListener.hpp:13:18:virtual void ModelListener::updatePresenter()	16	static
+Screen1Presenter.hpp:28:13:Screen1Presenter::~Screen1Presenter()	16	static
+Screen1Presenter.hpp:28:13:virtual Screen1Presenter::~Screen1Presenter()	16	static
+Screen1Presenter.cpp:4:1:Screen1Presenter::Screen1Presenter(Screen1View&)	16	static
+Screen1Presenter.cpp:9:6:virtual void Screen1Presenter::activate()	16	static
+Screen1Presenter.cpp:14:6:virtual void Screen1Presenter::deactivate()	16	static
+Screen1Presenter.cpp:19:6:virtual void Screen1Presenter::updatePresenter()	32	static

@@ -1,0 +1,5 @@
+mbtcp.c:81:1:eMBTCPDoInit	24	static
+mbtcp.c:93:1:eMBTCPStart	4	static
+mbtcp.c:98:1:eMBTCPStop	8	static
+mbtcp.c:105:1:eMBTCPReceive	40	static
+mbtcp.c:137:1:eMBTCPSend	32	static

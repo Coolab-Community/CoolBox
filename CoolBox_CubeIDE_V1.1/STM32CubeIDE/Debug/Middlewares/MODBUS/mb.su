@@ -1,0 +1,7 @@
+mb.c:130:1:eMBInit	24	static
+mb.c:197:1:eMBTCPInit	24	static
+mb.c:227:1:eMBRegisterCB	24	static
+mb.c:274:1:eMBClose	16	static
+mb.c:293:1:eMBEnable	16	static
+mb.c:311:1:eMBDisable	16	static
+mb.c:333:1:eMBPoll	24	static

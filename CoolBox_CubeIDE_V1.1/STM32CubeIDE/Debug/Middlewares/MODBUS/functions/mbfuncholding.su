@@ -1,0 +1,4 @@
+mbfuncholding.c:77:1:eMBFuncWriteHoldingRegister	24	static
+mbfuncholding.c:110:1:eMBFuncWriteMultipleHoldingRegister	24	static
+mbfuncholding.c:170:1:eMBFuncReadHoldingRegister	32	static
+mbfuncholding.c:235:1:eMBFuncReadWriteMultipleHoldingRegister	32	static

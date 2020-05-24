@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=../Drivers/Components/ft5336;../Drivers/BSP;
+[Groups]
+Drivers/Components=../Drivers/Components/ft5336/ft5336.c
+Drivers/BSP=../Drivers/BSP/stm32746g_discovery_qspi.c
+[Others]

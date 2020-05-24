@@ -1,0 +1,13 @@
+ft5336.c:145:6:ft5336_Init	16	static
+ft5336.c:161:6:ft5336_Reset	16	static
+ft5336.c:173:10:ft5336_ReadID	24	static
+ft5336.c:205:6:ft5336_TS_Start	16	static
+ft5336.c:222:9:ft5336_TS_DetectTouch	24	static
+ft5336.c:254:6:ft5336_TS_GetXY	32	static
+ft5336.c:375:6:ft5336_TS_EnableIT	24	static
+ft5336.c:390:6:ft5336_TS_DisableIT	24	static
+ft5336.c:407:9:ft5336_TS_ITStatus	16	static
+ft5336.c:420:6:ft5336_TS_ClearIT	16	static
+ft5336.c:568:16:ft5336_Get_I2C_InitializedStatus	4	static
+ft5336.c:578:13:ft5336_I2C_InitializeIfRequired	8	static
+ft5336.c:595:17:ft5336_TS_Configure	24	static

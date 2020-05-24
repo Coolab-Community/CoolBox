@@ -1,0 +1,6 @@
+MbTcp_Task.c:20:6:ModbusTask	16	static
+MbTcp_Task.c:34:6:User_notification	16	static
+MbTcp_Task.c:46:14:eMBRegHoldingCB	32	static
+MbTcp_Task.c:85:14:eMBRegInputCB	24	static
+MbTcp_Task.c:113:14:eMBRegCoilsCB	24	static
+MbTcp_Task.c:118:14:eMBRegDiscreteCB	16	static

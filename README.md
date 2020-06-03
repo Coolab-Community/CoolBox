@@ -37,4 +37,4 @@ STM32CubeMX ==> V5.6
 TouchGFX ==> V4.13
 
 To customize or modify the program open .cproject in STM32CubeIDE workspace. 
-In linker setting don't forget to add gcc library path if different, by default gcc library path is "C:/TouchGFXProjects/CoolBox_CubeIDE_V1.1/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"
+In linker setting don't forget to add gcc library path if different, by default gcc library path is: "C:/TouchGFXProjects/CoolBox_CubeIDE_V1.1/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc"

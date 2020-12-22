@@ -3,7 +3,9 @@ STM32F7 project (compatible with stm32F746g-disco board) with touchgfx and Freer
 
 Peripheral enabled ==> IWDG, ADC, LWIP and Modbus tcp/ip.
 
-Collect and convert analog voltages (ADC1), store the result in modbus register (40001 & 40002) then send it to the network (TCP/IP ==> fixed ip address).
+Collect and convert analog voltages (ADC1), store the result in modbus input register (30001 & 30002). To test this project, you can can read the data using "ModBus tool" like modbus poll through ethernet (TCP/IP).
+
+For testing you can modifiy the ip adress directly in lwip/app/lwip.c file.
 
 Displays the conversion result on touchscreen thanks to touchgfx.
 
@@ -25,7 +27,7 @@ Displays the conversion result on touchscreen thanks to touchgfx.
                                | |             |                 |
                                | |             |                 |         
                                 |  Vcc/4       |                 |
-                                |------------->| A4              |
+                                |------------->| A5              |
                                | |             |                 |
                                | |             | SMT32F746ZGT6   |--> Touchscreen (Gauges:5v & 12V)
                                 |              |                 |
